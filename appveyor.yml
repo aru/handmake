@@ -3,3 +3,4 @@ platform:
 
 build_script:
   - ./build.bat
+  - ./build/shr.exe
