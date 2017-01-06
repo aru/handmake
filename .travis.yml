@@ -6,4 +6,4 @@ os:
 
 script:
   - ./build.sh
-  - ./shr.exe
+  - ./build/shr.exe
